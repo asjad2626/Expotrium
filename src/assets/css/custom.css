@@ -1,0 +1,321 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+    font-family: Montserrat;
+   
+}
+.homepage-background{
+  background-image: linear-gradient(to right, #0c0a0d,#3e2c00);
+}
+.poolpage-background{
+  background-color:black;
+}
+.mainsection-1{
+    padding: 160px 0px 0 0 !important;
+}
+.mainsection-ptag{
+    font-family: Montserrat;
+  font-size: 20px !important;
+  font-weight: 500 !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1.52 !important;
+  letter-spacing: normal !important;
+  color: white !important;
+}
+.aboutsection-ptag{
+    font-family: Montserrat;
+  font-size: 15px !important;
+  font-weight: 500 !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1.52 !important;
+  letter-spacing: normal !important;
+  color: white !important;
+}
+.poolsec-ptag{
+  font-family: Montserrat;
+  font-size: 23px !important;
+  font-weight: normal !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1.52 !important;
+  letter-spacing: normal !important;
+  color: white !important;
+}
+
+.roadmapsection-ptag{
+    font-family: Montserrat;
+  font-size: 15px !important;
+  font-weight: 500 !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1.52 !important;
+  letter-spacing: normal !important;
+  color: white !important;
+}
+.mainimg-1{
+  height:auto !important;
+  display:visible !important;
+  width:100% !important;
+  
+}
+.ecoimg-1{
+  height:auto !important;
+  display:visible !important;
+  width:80% !important;
+  
+}
+.roadmapimg-1{
+  height:auto !important;
+  display:visible !important;
+  width:100% !important;
+  
+}
+.mainimg-1{
+  height:auto !important;
+  display:visible !important;
+  width:100% !important;
+  
+}
+.aboutimg-1{
+  height:auto !important;
+  display:visible !important;
+  width:60% !important;
+  
+}
+.mainsection-2{
+    padding: 30px 0px 0 0 !important;
+}
+h1{
+  font-family: BebasNeue !important;
+  font-size: 55px !important;
+  font-weight: normal !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1.03 !important;
+  letter-spacing: 0.83px !important;
+  color: white !important;
+}
+h2{
+  font-family: BebasNeue !important;
+  font-size: 35px !important;
+  font-weight: bold !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1.03 !important;
+  letter-spacing: 0.83px !important;
+  color: white !important;
+}
+.BUY-NOW {
+  padding:10px 55px !important;
+  font-size: 13px !important;
+  border:2px solid #e6b010 !important;
+  font-weight: bold !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1.07 !important;
+  letter-spacing: normal !important;
+  color: #e6b010 !important;
+  float:center !important;
+}
+.canva{
+    background: transparent !important;
+}
+.BUY-NOW-1 {
+    padding:10px 0px !important;
+  width:100% !important;
+  font-size: 13px !important;
+  border:2px solid #e6b010 !important;
+  font-weight: bold !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1.07 !important;
+  letter-spacing: normal !important;
+  color: #e6b010 !important;
+  float:center !important;
+}
+.Claim-All {
+  padding:10px 0px !important;
+  width:80% !important;
+  font-size: 13px !important;
+  border:2px solid #e6b010 !important;
+  font-weight: bold !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  letter-spacing: normal !important;
+  color: #e6b010 !important;
+  float:right !important;
+}
+.Claim-All-2 {
+  padding:10px 0px !important;
+  width:80% !important;
+  font-size: 13px !important;
+  border:2px solid #e6b010 !important;
+  font-weight: bold !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  letter-spacing: normal !important;
+  color: #e6b010 !important;
+  float:left !important;
+}
+.CONNECT-WALLET {
+  padding:10px 27px !important;
+  font-size: 13px !important;
+  font-weight: bold !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1.07 !important;
+  letter-spacing: normal !important;
+  color: #000 !important;
+  background-color: #e6b010 !important;
+  float:center !important;
+}
+.POOLS {
+  padding:10px 0px !important;
+  width:100% !important;
+  font-size: 13px !important;
+  font-weight: bold !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1.07 !important;
+  letter-spacing: normal !important;
+  color: #000 !important;
+  background-color: #e6b010 !important;
+  float:center !important;
+}
+.centered{
+  text-align:center;
+}
+.nav-link:hover{
+    color:grey !important;
+}
+.nav-link{
+  text-align:center !important;
+  font-size: 13px !important;
+  font-weight: bold !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1.07 !important;
+  letter-spacing: normal !important;
+  color:white !important;
+}
+
+
+
+.below-image{
+  margin: -80px 0 0 0 !important;
+}
+h4 {
+  padding: -60px 0 0 0 !important;
+  font-family: BebasNeue !important;
+  font-size: 20px !important;
+  font-weight: bold !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: 1 !important;
+  letter-spacing: normal !important;
+  color: white;
+}
+.roadmap-5-ptag
+  {
+    font-family: Montserrat !important;
+    font-size: 13px !important;
+    font-weight: normal !important;
+    font-stretch: normal !important;
+    font-style: normal !important;
+    color: white !important;
+  }
+.teamsection-ptag
+  {
+    font-family: Montserrat !important;
+    font-size: 13px !important;
+    font-weight: normal !important;
+    font-stretch: normal !important;
+    font-style: normal !important;
+    letter-spacing: normal !important;
+    color: white !important;
+    margin-bottom:0px !important;
+  }
+  h5{
+    font-family: BebasNeue !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+    font-stretch: normal !important;
+    font-style: normal !important;
+    letter-spacing: normal !important;
+    color: white !important;
+    margin-bottom:0px !important;
+  }
+.newsletter-section{
+  background: rgb(25,20,5);
+  background: linear-gradient(90deg, rgba(25,20,5,1) 39%, rgba(229,175,16,1) 100%);
+    height:auto !important;
+}
+.teamsection-grad{
+
+  width: 100% !important;
+  height: 100% !important;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(35, 28, 7, 0.8), rgba(35, 28, 7, 1)) !important;
+  z-index: 1 !important;
+  border-radius:10px !important;
+  } 
+.teamsection-img{
+  border-radius:10px !important;
+  width:auto !important;
+  height:350px !important;
+  background-image: url('../images/human1.jpg')!important;
+  background-size:100% 100% !important;
+  background-repeat:no-repeat !important;
+}
+.newsletter-input{
+  width:70% !important;
+  border-radius:10px 0px 0px 10px !important;
+}
+.button-newsletter{
+  padding:15px 30px !important;
+  background-color:#3d310c !important;
+  color:white !important;
+  border:none !important;
+  font-size:11px !important;
+  border-radius:0px 10px 10px 0px !important;
+}
+h3{
+  font-family: BebasNeue !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+    font-stretch: normal !important;
+    font-style: normal !important;
+    letter-spacing: normal !important;
+    color: white !important;
+}
+h5{
+  font-family: BebasNeue !important;
+    font-size: 20px !important;
+    font-weight: normal !important;
+    font-stretch: normal !important;
+    font-style: normal !important;
+    letter-spacing: normal !important;
+    color: white !important;
+}
+.pools-section-main{
+  margin: 0 13% 0 13% !important;
+}
+.pools-section{
+  margin: 159px 0 0 0 !important;
+}
+.poolsec-card{
+  background-color: rgba(20,20,20,1) !important;
+}
+.poolsec-ptag-2{
+    font-family: Montserrat !important;
+    font-size: 28px !important;
+    font-weight: bold !important;
+    font-stretch: normal !important;
+    font-style: normal !important;
+    letter-spacing: normal !important;
+    color: #e6b010 !important;
+}
+.ang-table{
+  overflow-x: auto !important; 
+}
